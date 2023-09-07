@@ -1,6 +1,6 @@
 # CSE Software 2
 
-This is a [CSE]([https://nextjs.org/](http://web.cse.ohio-state.edu/software/web/index.html#gsc.tab=0)) projects github with [`all projects`]().
+This is our [CSE]([https://nextjs.org/](http://web.cse.ohio-state.edu/software/web/index.html#gsc.tab=0)) projects github which contains [`all projects`]().
 
 ## Group work
 
